@@ -95,6 +95,12 @@ img {
   padding-top: 3rem;
   padding-bottom: 2rem;
 }
+/* ====card==== */
+.card-footer{
+  height: 150px;
+  width: 100%;
+  align-self: center;
+}
 
 /*===== LAYOUT =====*/
 .bd-grid {
